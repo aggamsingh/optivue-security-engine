@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pt
+optivue_fire/
+datasets/
+*.jpg
+*.png
+.ipynb_checkpoints/
